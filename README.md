@@ -16,4 +16,6 @@ Here are some ideas to get you started:
 -->
 
 ### 👦🏻About Me
-I'm a Junior Year Statistics Undergraduate at Hasanuddin University. A driven and enthusiastic learner with diverse experiences in Statistics, Data Analytics, and Data Science, I am eager to continue expanding my knowledge and skill. With a strong career interest in Data Science & Analytics fields.
+I'm a Statistics undergraduate on a mission to explore data and solve real-world problems. I’m drawn to statistics because I enjoy uncovering patterns, analyzing uncertainty, and turning raw numbers into meaningful insights. Right now, I’m focused on strengthening my statistical foundation and deepening my skills in data analysis and visualization.
+
+## Career
