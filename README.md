@@ -25,4 +25,3 @@ I'm a Statistics undergraduate on a mission to explore data and solve real-world
 - Statistics: Strengthening my core understanding of probability and statistical analysis. 
 - Data Analysis: Applying statistical thinking to exploratory data analysis and real-world datasets.
 - Human Resources Analytics: Exploring how data and statistics can support HR-related decision-making.
-- 
