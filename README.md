@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi!! I,m Musawan Intan Paembonan Embong Bulan👋
 
 <!--
 **meann-mus/meann-mus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### 👦🏻About Me
+I'm a Junior Year Statistics Undergraduate at Hasanuddin University. A driven and enthusiastic learner with diverse experiences in Statistics, Data Analytics, and Data Science, I am eager to continue expanding my knowledge and skill. With a strong career interest in Data Science & Analytics fields.
